@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Atef</h1>
-<h3 align="center">backend & ML engineer</h3>
+<h3 align="center"> ML engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maria130atef&label=Profile%20views&color=0e75b6&style=flat" alt="maria130atef" /> </p>
 
