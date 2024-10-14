@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **social media classification with NBE bank**
 
-- 🌱 I’m currently learning **python (Djungo) framework**
+- 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **git , python language , html ,css , machinelearning , nural networks , computer vision,R language , php and web scraping ,**
+- 💬 Ask me about **git , python language , html ,css , machinelearning , nural networks ,NLP, computer vision,R language , php and web scraping ,**
 
 - 📫 How to reach me **maria.atef130@gmail.com**
 
