@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **social media classification with NBE bank**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **git , python language , html ,css , machinelearning , nural networks ,NLP, computer vision,R language , php and web scraping ,**
 
